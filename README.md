@@ -1,12 +1,14 @@
-# Get Me A Chai
+# Buy Me A Chai
 
 ## Project Description
-Get Me A Chai is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
+Buy Me A Chai is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
 
 On the dashboard, developers or project creators can provide the project name, description, and link, allowing potential fund givers to learn about the project and decide whether to contribute. The refund policy is entirely at the discretion of the project developers.
+
 ## Tech Stack
 1. NextJS with TailwindCSS
 2. MongoDB
+3. 
 ## Features
 
 - **Easy to Use**: The platform offers a user-friendly interface that allows developers and supporters to navigate and use the site with ease.
@@ -14,6 +16,7 @@ On the dashboard, developers or project creators can provide the project name, d
 - **Free to Use**: There are no fees for using the platform. Both developers seeking funds and supporters looking to contribute can use the platform without any cost.
 - **Security**: The platform employs robust security measures to protect user data and transactions, ensuring a safe environment for both developers and fund givers.
 - **Raise Funds for Multiple Projects**: Developers can create and manage multiple fundraising campaigns simultaneously, providing flexibility to fund various projects at the same time.
+- 
 ## Screenshots
 
 ![Screenshot 1](![Screenshot (2372)](https://github.com/user-attachments/assets/f52c932d-054c-435a-8ae8-b10c8d94bc5d)
@@ -69,11 +72,11 @@ Clone the repository:
 4. On the dashboard, developers can edit their information except for their email ID.
 
 #### For Fund Givers:
-1. On the homepage, click the 'Fund Raisers' button.
+1. On the homepage, click the 'start here' button.and first login with your github.
 2. A list of the top 10 fund raisers who received the highest funds for their projects will be displayed.
 3. Use the search field to find project developers by their project, username, or developer name.
 4. Once you find a project you wish to support, click on it to view the project details, including the project name, description, and a link to the project.
 5. If you decide to contribute, click on the 'Pay' button by filling required data and you will be redirected to a secure payment page powered by Razorpay.
 6. After the transaction is successful, you will receive a confirmation of your contribution, and the funds will be directly transferred to the developer's Razorpay account.
 
-Thank you for your interest in Get Me A Chai! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
+Thank you for your interest in Buy Me A Chai! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
