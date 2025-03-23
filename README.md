@@ -1,14 +1,16 @@
-# Buy Me A Chai
+# Charity Vibe
 
 ## Project Description
-Buy Me A Chai is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
+Charity Vibe is a crowdfunding platform created using Next.js (app route), React, MongoDB, and Node.js. It is designed for developers who need funds to complete their projects. Fans and supporters of developers or project creators can support them by sending funds. Developers need a Razorpay account to receive funds and must generate a client ID and secret. 
 
 On the dashboard, developers or project creators can provide the project name, description, and link, allowing potential fund givers to learn about the project and decide whether to contribute. The refund policy is entirely at the discretion of the project developers.
 
 ## Tech Stack
 1. NextJS with TailwindCSS
 2. MongoDB
-3. 
+3. Razorpay
+4. Github Authentication
+5. 
 ## Features
 
 - **Easy to Use**: The platform offers a user-friendly interface that allows developers and supporters to navigate and use the site with ease.
@@ -19,10 +21,14 @@ On the dashboard, developers or project creators can provide the project name, d
 - 
 ## Screenshots
 
-![Screenshot 1](![Screenshot (2372)](https://github.com/user-attachments/assets/f52c932d-054c-435a-8ae8-b10c8d94bc5d)
-![Screenshot 2](![Screenshot (2373)](https://github.com/user-attachments/assets/91e35d65-be69-4898-83fd-83727280ce71)
-![Screenshot 3](![Screenshot (2374)](https://github.com/user-attachments/assets/bc756316-4c55-472f-8cb4-02bf6a3d9006)
 
+![Screenshot 2025-03-22 152905](https://github.com/user-attachments/assets/6548788c-4822-4e7b-8366-8eeb36ee57bf)
+
+![Screenshot 2025-03-22 152936](https://github.com/user-attachments/assets/69be4185-a243-49d2-9da5-941ac27c9d0e)
+![Screenshot 2025-03-22 152952](https://github.com/user-attachments/assets/c820cb56-b2e7-4a1a-b22a-a76b828fa348)
+![Screenshot 2025-03-22 153303](https://github.com/user-attachments/assets/6c7bb9d6-5253-4d53-ae00-e166f020a52d)
+![Screenshot 2025-03-22 153638](https://github.com/user-attachments/assets/fab51502-088e-4569-88d7-bf350de74a15)
+![Screenshot 2025-03-22 154045](https://github.com/user-attachments/assets/977bb44b-991d-404b-aba8-c3726d849e94)
 
 ## Environment Variables
 
@@ -79,4 +85,4 @@ Clone the repository:
 5. If you decide to contribute, click on the 'Pay' button by filling required data and you will be redirected to a secure payment page powered by Razorpay.
 6. After the transaction is successful, you will receive a confirmation of your contribution, and the funds will be directly transferred to the developer's Razorpay account.
 
-Thank you for your interest in Buy Me A Chai! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
+Thank you for your interest in Charity Vibe! We hope this platform helps you successfully fund your projects and support developers in bringing their ideas to life.
